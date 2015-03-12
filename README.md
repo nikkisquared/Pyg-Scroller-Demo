@@ -4,7 +4,7 @@ Pyg Scroller Demo is an approach to creating a 2D world that can be explored, bu
 
 Usage
 =====
-Requires pygame and python 2.  
+Requires python 2, pygame, and pygcurse (please get pygcurse from here: https://github.com/asweigart/pygcurse).  
 python runme.py
 
 History
